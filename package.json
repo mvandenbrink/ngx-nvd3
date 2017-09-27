@@ -1,6 +1,6 @@
 {
   "name": "ngx-nvd3",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Angular2+ module for NVD3 charts",
   "directories": {
     "test": "test"
@@ -35,9 +35,9 @@
   "homepage": "https://github.com:mvandenbrink/ngx-nvd3#readme",
   "dependencies": {
     "@types/d3": "^3.5.35",
-    "@types/nvd3": "^1.8.33",
+    "@types/nvd3": "^1.8.38",
     "d3": "^3.5.17",
-    "nvd3": "^1.8.5"
+    "nvd3": "^1.8.6"
   },
   "devDependencies": {
     "@angular/common": "^2.4.1",
